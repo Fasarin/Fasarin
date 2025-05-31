@@ -14,10 +14,3 @@
 
 ### Моя статистика
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fasarin&show_icons=true&theme=radical)
-
-       .-""""""""-.
-     .'          '.
-    /   ʕ ˵• ₒ •˵ ʔ \
-   : ,          : '
-    `._         _.'  
-       `"'"""""'"` 
