@@ -1,16 +1,23 @@
-## Hi there 👋
+![Банер](https://via.placeholder.com/800x200.png?text=Привіт,+я+Fasarin!)
 
-<!--
-**Fasarin/Fasarin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Привіт! 👋
 
-Here are some ideas to get you started:
+Я **Fasarin**, і це мій GitHub профіль!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub followers](https://img.shields.io/github/followers/Fasarin?style=social)
+![GitHub repos](https://img.shields.io/github/repo-size/Fasarin/Fasarin)
+
+### Про мене
+- 💻 Люблю кодити  
+- 🎮 Фанат відеоігор  
+- 📚 Завжди вчу щось нове  
+
+### Моя статистика
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fasarin&show_icons=true&theme=radical)
+
+       .-""""""""-.
+     .'          '.
+    /   ʕ ˵• ₒ •˵ ʔ \
+   : ,          : '
+    `._         _.'  
+       `"'"""""'"` 
