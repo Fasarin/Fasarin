@@ -49,15 +49,3 @@
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   <img src="https://img.shields.io/static/v1?message=itch.io&logo=itch&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="itch logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fasarin/Fasarin/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fasarin/Fasarin/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Fasarin/Fasarin/output/pacman-contribution-graph.svg">
-</picture>
-
-###
