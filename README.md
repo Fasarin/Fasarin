@@ -35,19 +35,6 @@
 
 ---
 
-### TryHackMe
-
-<div align="center">
-
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Fasarin)
-<img src="https://img.shields.io/badge/Top_3%25-212C42?style=flat-square" alt="Top 3%" />
-<img src="https://img.shields.io/badge/Silver_League-C0C0C0?style=flat-square&logoColor=black" alt="Silver League" />
-<img src="https://img.shields.io/badge/Pre_Security_Path-212C42?style=flat-square" alt="Pre Security Path" />
-
-</div>
-
----
-
 ### Contact
 
 <div align="center">
